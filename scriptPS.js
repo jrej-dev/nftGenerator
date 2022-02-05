@@ -169,7 +169,7 @@ function generateImage(metaData, fileName) {
         }
 
         showLayers(idList);
-        saveTitan("./assets", fileName)
+        saveImage("./assets", fileName)
         hideLayers(idList);
 
     } catch (error) {
@@ -177,7 +177,7 @@ function generateImage(metaData, fileName) {
     }
 }
 
-function saveTitan(filePath, fileName) {
+function saveImage(filePath, fileName) {
     var pngFile = File(filePath + "/" + fileName + ".png");
     pngSaveOptions = new PNGSaveOptions();
     doc.saveAs(pngFile, pngSaveOptions, true, Extension.LOWERCASE);
