@@ -1,0 +1,184 @@
+{
+    "arm_right": [
+      {
+        "value": "arm_right1",
+        "rarity": 0.3
+      },
+      {
+        "value": "arm_right2",
+        "rarity": 0.23
+      },
+      {
+        "value": "arm_right3",
+        "rarity": 0.215
+      },
+      {
+        "value": "arm_right4",
+        "rarity": 0.255
+      }
+    ],
+    "arm_left": [
+      {
+        "value": "arm_left1",
+        "rarity": 0.3
+      },
+      {
+        "value": "arm_left2",
+        "rarity": 0.23
+      },
+      {
+        "value": "arm_left3",
+        "rarity": 0.215
+      },
+      {
+        "value": "arm_left4",
+        "rarity": 0.255
+      }
+    ],
+    "dog": [
+      {
+        "value": "dog1",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog2",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog3",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog4",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog5",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog6",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog7",
+        "rarity": 0.125
+      },
+      {
+        "value": "dog8",
+        "rarity": 0.125
+      }
+    ],
+    "cabin": [
+      {
+        "value": "cabin1",
+        "rarity": 0.3
+      },
+      {
+        "value": "cabin2",
+        "rarity": 0.255
+      },
+      {
+        "value": "cabin3",
+        "rarity": 0.23
+      },
+      {
+        "value": "cabin4",
+        "rarity": 0.215
+      }
+    ],
+    "body": [
+      {
+        "value": "body1",
+        "rarity": 0.23
+      },
+      {
+        "value": "body2",
+        "rarity": 0.255
+      },
+      {
+        "value": "body3",
+        "rarity": 0.215
+      },
+      {
+        "value": "body4",
+        "rarity": 0.3
+      }
+    ],
+    "legs": [
+      {
+        "value": "legs1",
+        "rarity": 0.255
+      },
+      {
+        "value": "legs2",
+        "rarity": 0.3
+      },
+      {
+        "value": "legs3",
+        "rarity": 0.215
+      },
+      {
+        "value": "legs4",
+        "rarity": 0.23
+      }
+    ],
+    "engine": [
+      {
+        "value": "engine1",
+        "rarity": 0.215
+      },
+      {
+        "value": "engine2",
+        "rarity": 0.3
+      },
+      {
+        "value": "engine3",
+        "rarity": 0.23
+      },
+      {
+        "value": "engine4",
+        "rarity": 0.255
+      }
+    ],
+    "background": [
+      {
+        "value": "background1",
+        "rarity": 0.2
+      },
+      {
+        "value": "background2",
+        "rarity": 0.2
+      },
+      {
+        "value": "background3",
+        "rarity": 0.2
+      },
+      {
+        "value": "background4",
+        "rarity": 0.2
+      },
+      {
+        "value": "background5",
+        "rarity": 0.2
+      }
+    ],
+    "color_base": [
+      {
+        "value": "grey",
+        "rarity": 0.3
+      },
+      {
+        "value": "warmgrey",
+        "rarity": 0.255
+      },
+      {
+        "value": "darkgrey",
+        "rarity": 0.23
+      },
+      {
+        "value": "tan",
+        "rarity": 0.215
+      }
+    ]
+  }

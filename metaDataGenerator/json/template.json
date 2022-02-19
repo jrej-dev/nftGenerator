@@ -1,0 +1,20 @@
+{
+    "name": "NFT name",
+    "symbol": "Symbol",
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "<YOUR PUBLIC WALLET ADDRESS HERE>",
+                "share": 100
+            }
+        ]
+    },
+    "description": "my NFT collection",
+    "seller_fee_basis_points": 250,
+    "collection": {
+        "name": "my NFT collection",
+        "family": "my NFT collection"
+    },
+    "attributes": []
+}
