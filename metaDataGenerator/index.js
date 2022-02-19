@@ -74,10 +74,10 @@ const start = (nftNumber) => {
     }
 
     console.log("Process complete. metaDatas generated.");
-    console.log("\n")
+    console.log("\n");
 
     attributeRarity(allAttributes, generatedAttributes, NFT_NUMBER);
-    traitTypeCheck(allAttributes, generatedAttributes)
+    traitTypeCheck(allAttributes, generatedAttributes);
 }
 
 const IMAGE_FORMAT = "png"
