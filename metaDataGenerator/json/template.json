@@ -1,6 +1,7 @@
 {
     "name": "NFT name",
     "symbol": "Symbol",
+    "image": "image",
     "properties": {
         "category": "image",
         "creators": [
